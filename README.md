@@ -1,10 +1,30 @@
-# 💫 About Me:
-🔭 I’m currently working at IRD UMR ESPACE-DEV on my graduation research project: automatic detection of favelas in satellite imagery via semantic segmentation  <br>👯 I’m looking to collaborate on research in remote sensing, geospatial machine learning, semantic segmentation, and computer vision  <br>🤝 I’m looking for help with PhD opportunities, research collaborations, and interdisciplinary AI projects with real societal impact  <br>🌱 I’m currently learning more about Earth observation, dense prediction models, geospatial data engineering, and advanced deep learning for image understanding  <br>💬 Ask me about computer vision, remote sensing, semantic segmentation, deep learning, Python, and research workflows  <br>⚡ Fun fact: I’m especially interested in research that connects AI with meaningful real-world and societal applications<br>
+# Mahmoud Abo Shukr
 
+Machine learning researcher working on computer vision, remote sensing, and language-model training.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mahmoud.abo.shukr/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mahmoud_as_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-abo-shukr-485900270/) 
+I hold an M2 in Machine Vision and Artificial Intelligence from Université Paris-Saclay and a BSc in Computer and Automation Engineering from Damascus University. My master's research at IRD, UMR ESPACE-DEV, focused on building a multimodal benchmark for favela mapping in Brazil and evaluating remote-sensing foundation models.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Selected projects
+
+| Project | What I built | Start here |
+| --- | --- | --- |
+| Brazil favela mapping · IRD | Sentinel-1/2 preparation, settlement-label refinement, aligned segmentation data, and foundation-model experiments | [Project overview and repository map](https://github.com/Mahmoud-AboShukr/favela-dataset-pipeline) |
+| Optimizer diagnostics | A 17-optimizer comparison examining near-zero gradients and changes in gradient direction during early language-model training | [Protocol, logs, and quick-start](https://github.com/Mahmoud-AboShukr/sparse-nonstationary-optimizers) |
+| Arithmetic reasoning | A PyTorch Transformer, Qwen LoRA adaptation, and REINFORCE/PPO experiments with held-out numbers and prompt formats | [Notebook, recorded results, and evaluation limits](https://github.com/Mahmoud-AboShukr/arithmetic-reasoning-transformers) |
+
+## Research and technical background
+
+- **Computer vision:** image detection, segmentation, classification, and synthetic-data experiments.
+- **Remote sensing:** Sentinel-1 SAR, Sentinel-2 optical imagery, geospatial alignment, label refinement, and segmentation with CROMA, SMARTIES, and TerraMind.
+- **Model training:** PyTorch, TensorFlow, Transformers, parameter-efficient fine-tuning, reinforcement learning, and optimizer diagnostics.
+- **Scientific data processing:** Python, NumPy, pandas, OpenCV, Rasterio, GeoPandas, and SNAP.
+
+The IRD dataset is not yet publicly released. The overview distinguishes public processing code from thesis results and material awaiting release.
+
+## Writing and contact
+
+- [Master's thesis — multimodal favela mapping with Sentinel-1 and Sentinel-2](https://drive.google.com/file/d/1xght2L_ex5_-7mI3n93vxPnZ8XtSCrH3/view?usp=sharing)
+- [Published paper — Improving Sunspots Detection on White-light Images: a Survey on YOLO Family](https://www.researchgate.net/publication/384564919_Improving_Sunspots_Detection_on_White-light_Images_-_a_Survey_on_YOLO_Family)
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-abo-shukr-485900270/) · [Email](mailto:aboshukrmahmoud@gmail.com)
+
+[Facebook](https://www.facebook.com/mahmoud.abo.shukr/) · [Instagram](https://www.instagram.com/mahmoud_as_/)
